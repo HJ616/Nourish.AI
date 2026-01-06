@@ -1,0 +1,8 @@
+{
+  "name": "Nourish.ai - Consumer Health Co-pilot",
+  "description": "An AI-native experience that helps users interpret food ingredients instantly. Move beyond data lists to reasoning-driven insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
